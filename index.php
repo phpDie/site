@@ -6,12 +6,7 @@
 
     <title>TRY</title>
 
-	TEST1
-	TEST2
-	TEST 3 \ новые изменения в файле
-	TEST 4 css add
-	
-	TEST 5 ХХХ 
+	совсем другой текст
  
   </body>
 </html>
